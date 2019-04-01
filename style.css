@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+}
+
+#first-header {
+  color: #f9d1e3
+}
+
+div.pink-section {
+  color: #f9d1e3;
+    font-size:50px;
+}
+
+.blue-section {
+  color: blue;
+  font-family:monospace;
+  font-size:20px;
+}
+
+#navigation-bar {
+  text-align: right;
+}
+
+.nav-link {
+  background-color: #c3dcdd;
+  padding:10px;
+}
+
+.nav-link:hover {
+  background-color: #ad7bad
+}
