@@ -1,2 +1,0 @@
-# codefirstgirls
-My First Website!
